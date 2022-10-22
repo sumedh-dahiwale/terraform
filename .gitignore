@@ -1,5 +1,7 @@
-.DS_Store
-firstEC2/.terraform.tfstate.lock.info
-firstEC2/.terraform.lock.hcl
-firstEC2/.terraform/providers/registry.terraform.io/hashicorp/aws/4.36.1/darwin_amd64/terraform-provider-aws_v4.36.1_x5
-firstEC2/terraform.tfstate
+
+terraform_basics/.DS_Store
+terraform_basics/ec2/.terraform.lock.hcl
+terraform_basics/ec2/.terraform/providers/registry.terraform.io/hashicorp/aws/4.36.1/darwin_amd64/terraform-provider-aws_v4.36.1_x5
+terraform_basics/ec2/terraform.tfstate
+terraform_basics/iam/.terraform.lock.hcl
+terraform_basics/iam/.terraform/providers/registry.terraform.io/hashicorp/aws/4.36.1/darwin_amd64/terraform-provider-aws_v4.36.1_x5
